@@ -5,7 +5,7 @@ For this project, I scraped regular season batting statistics from Wikipedia for
 
 ## Files
 
-- Gilby_Project2_Part2.ipynb: My notebook with the web scraping, data cleaning, analysis, graphs, and conclusions.
+- Gilby_Project2_Part2 (3).ipynb: My notebook with the web scraping, data cleaning, analysis, graphs, and conclusions.
 - README.md: A description of the project, files, and data sources.
 
 ## Data Sources
